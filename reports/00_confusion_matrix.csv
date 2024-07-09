@@ -1,0 +1,16 @@
+Class,True Positives,False Positives,True Negatives,False Negatives
+b'Alnus cordata',1,4,78,7
+b'Arbutus unedo',1,5,77,7
+b'Cephalaria leucantha',0,9,75,6
+b'Melia azedarach',1,5,81,3
+b'Prunus dulcis',1,4,81,4
+b'Quercus coccifera',0,4,82,4
+b'Quercus ilex',1,7,77,5
+b'Quercus petraea',0,2,81,7
+b'Quercus pubescens',2,7,79,2
+b'Quercus robur',0,2,81,7
+b'Quercus rubra',0,6,81,3
+b'Quercus suber',0,7,75,8
+b'Ranunculus parviflorus',0,5,80,5
+b'Silene vulgaris',0,10,73,7
+b'Tilia platyphyllos',0,6,76,8

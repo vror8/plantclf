@@ -1,0 +1,21 @@
+Class,True Positives,False Positives,True Negatives,False Negatives
+b'Agrimonia eupatoria',0,2,111,6
+b'Anacamptis laxiflora',0,10,104,5
+b'Anacamptis pyramidalis',0,9,105,5
+b'Anthriscus sylvestris',0,3,110,6
+b'Asparagus officinalis',0,5,109,5
+b'Centaurea aspera',0,3,112,4
+b'Cirsium palustre',0,7,108,4
+b'Cruciata laevipes',2,11,102,4
+b'Cyanus segetum',2,4,108,5
+b'Equisetum telmateia',0,7,104,8
+b'Foeniculum vulgare',0,2,113,4
+b'Fritillaria meleagris',1,6,106,6
+b'Helminthotheca echioides',1,4,106,8
+b'Himantoglossum hircinum',1,2,109,7
+b'Rumex obtusifolius',0,9,104,6
+b'Senecio inaequidens',1,7,106,5
+b'Taraxacum officinale',0,6,107,6
+b'Trollius europaeus',0,6,104,9
+b'Verbascum lychnitis',0,7,109,3
+b'Vicia hirsuta',0,1,113,5
